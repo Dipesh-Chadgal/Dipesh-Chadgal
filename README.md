@@ -29,7 +29,7 @@ Features include secure login, menu customization and browsing, secure payments 
 ### Connect with Me:
 
 - Email: dipeshchadgal10@gmail.com
-- LinkedIn: https://www.linkedin.com/in/grishma-gedela
+- LinkedIn: https://www.linkedin.com/in/dipesh-singh-chadgal/
 - GitHub: https://github.com/Dipesh-Chadgal
 
 ### Feedback Welcome :
